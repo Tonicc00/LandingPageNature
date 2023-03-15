@@ -6,3 +6,4 @@ In this project I used useState hook to show Navbar on click and connected pages
 The purpose of the page is to show wonders of nature, arctic part mostly.
 
 Original site: https://templated.live/hielo/
+My attempt: https://landingpagenature.tonicc00.repl.co/
